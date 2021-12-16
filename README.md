@@ -1,4 +1,5 @@
-👋 Hi there! I'm currently learning **computer science & engineering**.
+# 👋 Hi there!
+I'm currently learning **computer science & engineering**.
 
 
 ### 👍 Skills
@@ -10,6 +11,6 @@
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/OneSignal-F3F6F4?style=flat-square&logo=OneSignal&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/> <img src="https://img.shields.io/badge/npm-F05032?style=flat-square&logo=npm&logoColor=white"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HYEONJI-K)
