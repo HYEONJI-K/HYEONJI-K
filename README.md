@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm currently learning **computer science & engineering**.
+I'm learned **computer science & engineering**.
 
 
 ### 👍 Skills
